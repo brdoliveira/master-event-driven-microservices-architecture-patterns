@@ -1,0 +1,11 @@
+{
+  "feature": "production-hardening",
+  "timestamp": "2026-08-29T23:05:45.021Z",
+  "gitRev": "c8dca82",
+  "command": "node --test tests",
+  "reporter": "tap",
+  "exitCode": 1,
+  "testsParsed": 0,
+  "results": {},
+  "principles": {}
+}

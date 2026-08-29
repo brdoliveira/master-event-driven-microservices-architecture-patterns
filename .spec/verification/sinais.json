@@ -5,154 +5,154 @@
       "codigo": "ARQUIVO_INEXISTENTE",
       "feature": "production-hardening",
       "ref": "T-001",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-29T22:16:05.835Z",
-      "ultimaVez": "2026-08-29T22:16:05.835Z",
-      "gitRev": "d17a04c"
+      "ultimaVez": "2026-08-29T23:05:45.564Z",
+      "gitRev": "c8dca82"
     },
     "ARQUIVO_INEXISTENTE::production-hardening::T-002": {
       "codigo": "ARQUIVO_INEXISTENTE",
       "feature": "production-hardening",
       "ref": "T-002",
-      "ocorrencias": 2,
+      "ocorrencias": 4,
       "primeiraVez": "2026-08-29T22:16:05.836Z",
-      "ultimaVez": "2026-08-29T22:16:05.836Z",
-      "gitRev": "d17a04c"
+      "ultimaVez": "2026-08-29T23:05:45.565Z",
+      "gitRev": "c8dca82"
     },
     "ARQUIVO_INEXISTENTE::production-hardening::T-003": {
       "codigo": "ARQUIVO_INEXISTENTE",
       "feature": "production-hardening",
       "ref": "T-003",
-      "ocorrencias": 2,
+      "ocorrencias": 4,
       "primeiraVez": "2026-08-29T22:16:05.836Z",
-      "ultimaVez": "2026-08-29T22:16:05.836Z",
-      "gitRev": "d17a04c"
+      "ultimaVez": "2026-08-29T23:05:45.565Z",
+      "gitRev": "c8dca82"
     },
     "ARQUIVO_INEXISTENTE::production-hardening::T-004": {
       "codigo": "ARQUIVO_INEXISTENTE",
       "feature": "production-hardening",
       "ref": "T-004",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-29T22:16:05.836Z",
-      "ultimaVez": "2026-08-29T22:16:05.836Z",
-      "gitRev": "d17a04c"
+      "ultimaVez": "2026-08-29T23:05:45.565Z",
+      "gitRev": "c8dca82"
     },
     "ARQUIVO_INEXISTENTE::production-hardening::T-007": {
       "codigo": "ARQUIVO_INEXISTENTE",
       "feature": "production-hardening",
       "ref": "T-007",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-29T22:16:05.836Z",
-      "ultimaVez": "2026-08-29T22:16:05.836Z",
-      "gitRev": "d17a04c"
+      "ultimaVez": "2026-08-29T23:05:45.565Z",
+      "gitRev": "c8dca82"
     },
     "AC_SEM_TESTE::production-hardening::AC-001": {
       "codigo": "AC_SEM_TESTE",
       "feature": "production-hardening",
       "ref": "AC-001",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-29T22:16:05.836Z",
-      "ultimaVez": "2026-08-29T22:16:05.836Z",
-      "gitRev": "d17a04c"
+      "ultimaVez": "2026-08-29T23:05:45.565Z",
+      "gitRev": "c8dca82"
     },
     "AC_SEM_TESTE::production-hardening::AC-002": {
       "codigo": "AC_SEM_TESTE",
       "feature": "production-hardening",
       "ref": "AC-002",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-29T22:16:05.836Z",
-      "ultimaVez": "2026-08-29T22:16:05.836Z",
-      "gitRev": "d17a04c"
+      "ultimaVez": "2026-08-29T23:05:45.565Z",
+      "gitRev": "c8dca82"
     },
     "AC_SEM_TESTE::production-hardening::AC-003": {
       "codigo": "AC_SEM_TESTE",
       "feature": "production-hardening",
       "ref": "AC-003",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-29T22:16:05.836Z",
-      "ultimaVez": "2026-08-29T22:16:05.836Z",
-      "gitRev": "d17a04c"
+      "ultimaVez": "2026-08-29T23:05:45.565Z",
+      "gitRev": "c8dca82"
     },
     "AC_SEM_TESTE::production-hardening::AC-004": {
       "codigo": "AC_SEM_TESTE",
       "feature": "production-hardening",
       "ref": "AC-004",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-29T22:16:05.836Z",
-      "ultimaVez": "2026-08-29T22:16:05.836Z",
-      "gitRev": "d17a04c"
+      "ultimaVez": "2026-08-29T23:05:45.565Z",
+      "gitRev": "c8dca82"
     },
     "AC_SEM_TESTE::production-hardening::AC-005": {
       "codigo": "AC_SEM_TESTE",
       "feature": "production-hardening",
       "ref": "AC-005",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-29T22:16:05.836Z",
-      "ultimaVez": "2026-08-29T22:16:05.836Z",
-      "gitRev": "d17a04c"
+      "ultimaVez": "2026-08-29T23:05:45.565Z",
+      "gitRev": "c8dca82"
     },
     "AC_SEM_TESTE::production-hardening::AC-006": {
       "codigo": "AC_SEM_TESTE",
       "feature": "production-hardening",
       "ref": "AC-006",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-29T22:16:05.836Z",
-      "ultimaVez": "2026-08-29T22:16:05.836Z",
-      "gitRev": "d17a04c"
+      "ultimaVez": "2026-08-29T23:05:45.565Z",
+      "gitRev": "c8dca82"
     },
     "AC_SEM_TESTE::production-hardening::AC-007": {
       "codigo": "AC_SEM_TESTE",
       "feature": "production-hardening",
       "ref": "AC-007",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-29T22:16:05.836Z",
-      "ultimaVez": "2026-08-29T22:16:05.836Z",
-      "gitRev": "d17a04c"
+      "ultimaVez": "2026-08-29T23:05:45.565Z",
+      "gitRev": "c8dca82"
     },
     "AC_SEM_TESTE::production-hardening::AC-008": {
       "codigo": "AC_SEM_TESTE",
       "feature": "production-hardening",
       "ref": "AC-008",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-29T22:16:05.836Z",
-      "ultimaVez": "2026-08-29T22:16:05.836Z",
-      "gitRev": "d17a04c"
+      "ultimaVez": "2026-08-29T23:05:45.565Z",
+      "gitRev": "c8dca82"
     },
     "AC_SEM_TESTE::production-hardening::AC-009": {
       "codigo": "AC_SEM_TESTE",
       "feature": "production-hardening",
       "ref": "AC-009",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-29T22:16:05.836Z",
-      "ultimaVez": "2026-08-29T22:16:05.836Z",
-      "gitRev": "d17a04c"
+      "ultimaVez": "2026-08-29T23:05:45.565Z",
+      "gitRev": "c8dca82"
     },
     "AC_SEM_TESTE::production-hardening::AC-010": {
       "codigo": "AC_SEM_TESTE",
       "feature": "production-hardening",
       "ref": "AC-010",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-29T22:16:05.836Z",
-      "ultimaVez": "2026-08-29T22:16:05.836Z",
-      "gitRev": "d17a04c"
+      "ultimaVez": "2026-08-29T23:05:45.565Z",
+      "gitRev": "c8dca82"
     },
     "AC_SEM_TESTE::production-hardening::AC-011": {
       "codigo": "AC_SEM_TESTE",
       "feature": "production-hardening",
       "ref": "AC-011",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-29T22:16:05.836Z",
-      "ultimaVez": "2026-08-29T22:16:05.836Z",
-      "gitRev": "d17a04c"
+      "ultimaVez": "2026-08-29T23:05:45.565Z",
+      "gitRev": "c8dca82"
     },
     "AC_SEM_TESTE::production-hardening::AC-012": {
       "codigo": "AC_SEM_TESTE",
       "feature": "production-hardening",
       "ref": "AC-012",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-29T22:16:05.836Z",
-      "ultimaVez": "2026-08-29T22:16:05.836Z",
-      "gitRev": "d17a04c"
+      "ultimaVez": "2026-08-29T23:05:45.565Z",
+      "gitRev": "c8dca82"
     },
     "ARQUIVO_ORFAO::—::analytics-service/pom.xml": {
       "codigo": "ARQUIVO_ORFAO",
@@ -2345,19 +2345,64 @@
       "codigo": "PRINCIPIO_VIOLADO",
       "feature": "—",
       "ref": "P-002",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-29T22:16:05.837Z",
-      "ultimaVez": "2026-08-29T22:16:05.837Z",
-      "gitRev": "d17a04c"
+      "ultimaVez": "2026-08-29T23:05:45.565Z",
+      "gitRev": "c8dca82"
     },
     "PRINCIPIO_VIOLADO::—::P-003": {
       "codigo": "PRINCIPIO_VIOLADO",
       "feature": "—",
       "ref": "P-003",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-29T22:16:05.837Z",
-      "ultimaVez": "2026-08-29T22:16:05.837Z",
-      "gitRev": "d17a04c"
+      "ultimaVez": "2026-08-29T23:05:45.565Z",
+      "gitRev": "c8dca82"
+    },
+    "ARQUIVO_ORFAO::—::config-server-repository/config-client-kafka_streams.yml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "config-server-repository/config-client-kafka_streams.yml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T23:05:45.565Z",
+      "ultimaVez": "2026-08-29T23:05:45.565Z",
+      "gitRev": "c8dca82"
+    },
+    "ARQUIVO_ORFAO::—::config-server-repository/config-client-kafka_to_elastic.yml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "config-server-repository/config-client-kafka_to_elastic.yml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T23:05:45.565Z",
+      "ultimaVez": "2026-08-29T23:05:45.565Z",
+      "gitRev": "c8dca82"
+    },
+    "ARQUIVO_ORFAO::—::config-server-repository/config-client-reactive_elastic_query_web.yml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "config-server-repository/config-client-reactive_elastic_query_web.yml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T23:05:45.565Z",
+      "ultimaVez": "2026-08-29T23:05:45.565Z",
+      "gitRev": "c8dca82"
+    },
+    "ARQUIVO_ORFAO::—::config-server-repository/config-client-twitter_to_kafka.yml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "config-server-repository/config-client-twitter_to_kafka.yml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T23:05:45.565Z",
+      "ultimaVez": "2026-08-29T23:05:45.565Z",
+      "gitRev": "c8dca82"
+    },
+    "ARQUIVO_ORFAO::—::config-server-repository/config-client.yml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "config-server-repository/config-client.yml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T23:05:45.565Z",
+      "ultimaVez": "2026-08-29T23:05:45.565Z",
+      "gitRev": "c8dca82"
     }
   }
 }
