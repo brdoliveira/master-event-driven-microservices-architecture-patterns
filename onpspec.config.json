@@ -1,5 +1,5 @@
 {
-  "testCommand": "node --test tests",
+  "testCommand": "node --test tests/production-hardening.test.mjs",
   "reporter": "tap",
   "testGlobs": [
     "tests/**",
@@ -21,6 +21,10 @@
     "gateway-service/src/main/java/**/WebSecurityConfig.java",
     "reactive-elastic-query-service/pom.xml",
     "reactive-elastic-query-service/src/main/java/**/WebSecurityConfig.java",
+    "twitter-to-kafka-service/src/main/resources/application.yml",
+    "reactive-elastic-query-service/src/main/resources/bootstrap.yml",
+    "reactive-elastic-query-web-client/src/main/resources/bootstrap.yml",
+    "elastic-query-web-client-2/src/main/resources/bootstrap.yml",
     "config-server-repository/config-client*.yml"
   ]
 }
