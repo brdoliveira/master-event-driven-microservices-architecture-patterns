@@ -23,10 +23,10 @@
       "codigo": "ARQUIVO_INEXISTENTE",
       "feature": "production-hardening",
       "ref": "T-003",
-      "ocorrencias": 4,
+      "ocorrencias": 6,
       "primeiraVez": "2026-08-29T22:16:05.836Z",
-      "ultimaVez": "2026-08-29T23:05:45.565Z",
-      "gitRev": "c8dca82"
+      "ultimaVez": "2026-08-29T23:26:39.509Z",
+      "gitRev": "fbed2b4"
     },
     "ARQUIVO_INEXISTENTE::production-hardening::T-004": {
       "codigo": "ARQUIVO_INEXISTENTE",
@@ -41,10 +41,10 @@
       "codigo": "ARQUIVO_INEXISTENTE",
       "feature": "production-hardening",
       "ref": "T-007",
-      "ocorrencias": 2,
+      "ocorrencias": 3,
       "primeiraVez": "2026-08-29T22:16:05.836Z",
-      "ultimaVez": "2026-08-29T23:05:45.565Z",
-      "gitRev": "c8dca82"
+      "ultimaVez": "2026-08-29T23:26:39.509Z",
+      "gitRev": "fbed2b4"
     },
     "AC_SEM_TESTE::production-hardening::AC-001": {
       "codigo": "AC_SEM_TESTE",
@@ -2363,46 +2363,199 @@
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "config-server-repository/config-client-kafka_streams.yml",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-29T23:05:45.565Z",
-      "ultimaVez": "2026-08-29T23:05:45.565Z",
-      "gitRev": "c8dca82"
+      "ultimaVez": "2026-08-29T23:26:39.509Z",
+      "gitRev": "fbed2b4"
     },
     "ARQUIVO_ORFAO::—::config-server-repository/config-client-kafka_to_elastic.yml": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "config-server-repository/config-client-kafka_to_elastic.yml",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-29T23:05:45.565Z",
-      "ultimaVez": "2026-08-29T23:05:45.565Z",
-      "gitRev": "c8dca82"
+      "ultimaVez": "2026-08-29T23:26:39.509Z",
+      "gitRev": "fbed2b4"
     },
     "ARQUIVO_ORFAO::—::config-server-repository/config-client-reactive_elastic_query_web.yml": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "config-server-repository/config-client-reactive_elastic_query_web.yml",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-29T23:05:45.565Z",
-      "ultimaVez": "2026-08-29T23:05:45.565Z",
-      "gitRev": "c8dca82"
+      "ultimaVez": "2026-08-29T23:26:39.509Z",
+      "gitRev": "fbed2b4"
     },
     "ARQUIVO_ORFAO::—::config-server-repository/config-client-twitter_to_kafka.yml": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "config-server-repository/config-client-twitter_to_kafka.yml",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-29T23:05:45.565Z",
-      "ultimaVez": "2026-08-29T23:05:45.565Z",
-      "gitRev": "c8dca82"
+      "ultimaVez": "2026-08-29T23:26:39.509Z",
+      "gitRev": "fbed2b4"
     },
     "ARQUIVO_ORFAO::—::config-server-repository/config-client.yml": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "config-server-repository/config-client.yml",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-29T23:05:45.565Z",
-      "ultimaVez": "2026-08-29T23:05:45.565Z",
-      "gitRev": "c8dca82"
+      "ultimaVez": "2026-08-29T23:26:39.509Z",
+      "gitRev": "fbed2b4"
+    },
+    "TASK_CONCLUIDA_SEM_PROVA::production-hardening::T-001": {
+      "codigo": "TASK_CONCLUIDA_SEM_PROVA",
+      "feature": "production-hardening",
+      "ref": "T-001",
+      "ocorrencias": 12,
+      "primeiraVez": "2026-08-29T23:26:39.508Z",
+      "ultimaVez": "2026-08-29T23:26:39.509Z",
+      "gitRev": "fbed2b4"
+    },
+    "TASK_CONCLUIDA_SEM_PROVA::production-hardening::T-002": {
+      "codigo": "TASK_CONCLUIDA_SEM_PROVA",
+      "feature": "production-hardening",
+      "ref": "T-002",
+      "ocorrencias": 3,
+      "primeiraVez": "2026-08-29T23:26:39.509Z",
+      "ultimaVez": "2026-08-29T23:26:39.509Z",
+      "gitRev": "fbed2b4"
+    },
+    "TASK_CONCLUIDA_SEM_PROVA::production-hardening::T-004": {
+      "codigo": "TASK_CONCLUIDA_SEM_PROVA",
+      "feature": "production-hardening",
+      "ref": "T-004",
+      "ocorrencias": 3,
+      "primeiraVez": "2026-08-29T23:26:39.509Z",
+      "ultimaVez": "2026-08-29T23:26:39.509Z",
+      "gitRev": "fbed2b4"
+    },
+    "TASK_CONCLUIDA_SEM_PROVA::production-hardening::T-005": {
+      "codigo": "TASK_CONCLUIDA_SEM_PROVA",
+      "feature": "production-hardening",
+      "ref": "T-005",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-08-29T23:26:39.509Z",
+      "ultimaVez": "2026-08-29T23:26:39.509Z",
+      "gitRev": "fbed2b4"
+    },
+    "TASK_CONCLUIDA_SEM_PROVA::production-hardening::T-006": {
+      "codigo": "TASK_CONCLUIDA_SEM_PROVA",
+      "feature": "production-hardening",
+      "ref": "T-006",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-08-29T23:26:39.509Z",
+      "ultimaVez": "2026-08-29T23:26:39.509Z",
+      "gitRev": "fbed2b4"
+    },
+    "AC_SEM_PROVA::production-hardening::AC-001": {
+      "codigo": "AC_SEM_PROVA",
+      "feature": "production-hardening",
+      "ref": "AC-001",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T23:26:39.509Z",
+      "ultimaVez": "2026-08-29T23:26:39.509Z",
+      "gitRev": "fbed2b4"
+    },
+    "AC_SEM_PROVA::production-hardening::AC-002": {
+      "codigo": "AC_SEM_PROVA",
+      "feature": "production-hardening",
+      "ref": "AC-002",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T23:26:39.509Z",
+      "ultimaVez": "2026-08-29T23:26:39.509Z",
+      "gitRev": "fbed2b4"
+    },
+    "AC_SEM_PROVA::production-hardening::AC-003": {
+      "codigo": "AC_SEM_PROVA",
+      "feature": "production-hardening",
+      "ref": "AC-003",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T23:26:39.509Z",
+      "ultimaVez": "2026-08-29T23:26:39.509Z",
+      "gitRev": "fbed2b4"
+    },
+    "AC_SEM_PROVA::production-hardening::AC-004": {
+      "codigo": "AC_SEM_PROVA",
+      "feature": "production-hardening",
+      "ref": "AC-004",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T23:26:39.509Z",
+      "ultimaVez": "2026-08-29T23:26:39.509Z",
+      "gitRev": "fbed2b4"
+    },
+    "AC_SEM_PROVA::production-hardening::AC-005": {
+      "codigo": "AC_SEM_PROVA",
+      "feature": "production-hardening",
+      "ref": "AC-005",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T23:26:39.509Z",
+      "ultimaVez": "2026-08-29T23:26:39.509Z",
+      "gitRev": "fbed2b4"
+    },
+    "AC_SEM_PROVA::production-hardening::AC-006": {
+      "codigo": "AC_SEM_PROVA",
+      "feature": "production-hardening",
+      "ref": "AC-006",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T23:26:39.509Z",
+      "ultimaVez": "2026-08-29T23:26:39.509Z",
+      "gitRev": "fbed2b4"
+    },
+    "AC_SEM_PROVA::production-hardening::AC-007": {
+      "codigo": "AC_SEM_PROVA",
+      "feature": "production-hardening",
+      "ref": "AC-007",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T23:26:39.509Z",
+      "ultimaVez": "2026-08-29T23:26:39.509Z",
+      "gitRev": "fbed2b4"
+    },
+    "AC_SEM_PROVA::production-hardening::AC-008": {
+      "codigo": "AC_SEM_PROVA",
+      "feature": "production-hardening",
+      "ref": "AC-008",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T23:26:39.509Z",
+      "ultimaVez": "2026-08-29T23:26:39.509Z",
+      "gitRev": "fbed2b4"
+    },
+    "AC_SEM_PROVA::production-hardening::AC-009": {
+      "codigo": "AC_SEM_PROVA",
+      "feature": "production-hardening",
+      "ref": "AC-009",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T23:26:39.509Z",
+      "ultimaVez": "2026-08-29T23:26:39.509Z",
+      "gitRev": "fbed2b4"
+    },
+    "AC_SEM_PROVA::production-hardening::AC-010": {
+      "codigo": "AC_SEM_PROVA",
+      "feature": "production-hardening",
+      "ref": "AC-010",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T23:26:39.509Z",
+      "ultimaVez": "2026-08-29T23:26:39.509Z",
+      "gitRev": "fbed2b4"
+    },
+    "AC_SEM_PROVA::production-hardening::AC-011": {
+      "codigo": "AC_SEM_PROVA",
+      "feature": "production-hardening",
+      "ref": "AC-011",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T23:26:39.509Z",
+      "ultimaVez": "2026-08-29T23:26:39.509Z",
+      "gitRev": "fbed2b4"
+    },
+    "AC_SEM_PROVA::production-hardening::AC-012": {
+      "codigo": "AC_SEM_PROVA",
+      "feature": "production-hardening",
+      "ref": "AC-012",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T23:26:39.509Z",
+      "ultimaVez": "2026-08-29T23:26:39.509Z",
+      "gitRev": "fbed2b4"
     }
   }
 }
