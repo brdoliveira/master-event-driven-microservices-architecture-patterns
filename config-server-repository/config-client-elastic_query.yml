@@ -38,7 +38,7 @@ spring:
         registration:
           keycloak:
             client-id: 'elastic-query-service'
-            client-secret: '{cipher}87191dde8d9944c470ffe0f00f17134d40f659756915af9c8a9bc5dab0b80f8a71acf1d94642151714b37017648883a6a7ca4a995db650bb734b7a60c19ed110'
+            client-secret: ${ELASTIC_QUERY_CLIENT_SECRET}
             authorizationGrantType: client_credentials
         provider:
           keycloak:
@@ -53,7 +53,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/postgres?currentSchema=public&binaryTransfer=true&reWriteBatchedInserts=true
     username: postgres
-    password: '{cipher}d4af18fcab2f5ece79a7b41f36066be102deb3cae3394854edfdf490b2e42d12'
+    password: ${ELASTIC_QUERY_DB_PASSWORD}
     driver-class-name: org.postgresql.Driver
     platform: postgres
     schema: classpath:init-schema.sql
@@ -71,7 +71,7 @@ elastic-config:
 
 user-config:
   username: test
-  password: '{cipher}baeb90d57edb9a050b97b98a7d8cabe80ee884e6fff16c22956172459a43e54d'
+  password: ${ELASTIC_QUERY_USER_PASSWORD}
   roles: USER
 
 springdoc:
