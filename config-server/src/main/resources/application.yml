@@ -9,20 +9,18 @@ logging:
 spring:
   application:
     name: configserver
+  profiles:
+    active: native
   cloud:
     config:
       server:
-        git:
-          uri: https://github.com/agelenler/spring-cloud-config-server-repository
-          default-label: main
-          username: ****
-          password: '****'
-          clone-on-start: true
+        native:
+          search-locations: ${CONFIG_REPOSITORY_PATH:file:./config-server-repository}
     fail-fast: true
   security:
     user:
       name: spring_cloud_user
-      password: '1234'
+      password: ${CONFIG_SERVER_PASSWORD}
 
 log:
   app-name: config-server

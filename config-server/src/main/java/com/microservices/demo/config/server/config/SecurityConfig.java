@@ -12,10 +12,14 @@ public class SecurityConfig {
 
     @Bean
     public SecurityFilterChain webSecurityCustomizer(HttpSecurity http) throws Exception {
-        http.authorizeHttpRequests(requests -> requests
-                        .requestMatchers(new AntPathRequestMatcher("/actuator/**"),
-                                new AntPathRequestMatcher("/encrypt/**"),
-                                new AntPathRequestMatcher("/decrypt/**"))
+        http.csrf(csrf -> csrf.ignoringRequestMatchers(
+                        new AntPathRequestMatcher("/encrypt"),
+                        new AntPathRequestMatcher("/encrypt/**"),
+                        new AntPathRequestMatcher("/decrypt"),
+                        new AntPathRequestMatcher("/decrypt/**")))
+                .authorizeHttpRequests(requests -> requests
+                        .requestMatchers(new AntPathRequestMatcher("/actuator/health"),
+                                new AntPathRequestMatcher("/actuator/health/**"))
                         .permitAll()
                         .anyRequest().authenticated())
                 .httpBasic(Customizer.withDefaults());

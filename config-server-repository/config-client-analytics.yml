@@ -33,7 +33,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/postgres?currentSchema=analytics&binaryTransfer=true&reWriteBatchedInserts=true
     username: postgres
-    password: admin
+    password: ${ANALYTICS_DB_PASSWORD}
     driver-class-name: org.postgresql.Driver
     platform: postgres
 
