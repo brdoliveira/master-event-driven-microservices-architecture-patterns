@@ -168,6 +168,7 @@ test('@spec:AC-009 Docker Compose é validável sem segredos reais', () => {
     ['docker-compose/keycloak_authorization_server.yml'],
     ['docker-compose/common.yml', 'docker-compose/monitoring.yml'],
     ['docker-compose/common.yml', 'docker-compose/config_server.yml'],
+    ['docker-compose/common.yml', 'docker-compose/twitter_to_kafka.yml'],
   ];
 
   for (const files of composeConfigurations) {
@@ -184,5 +185,25 @@ test('@spec:AC-009 Docker Compose é validável sem segredos reais', () => {
       /^\s+(?:[A-Z0-9_]*(?:PASSWORD|SECRET|TOKEN|ENCRYPT_KEY)):\s*(?:null|''|"")?\s*$/gim,
       `${files.join(' + ')} deixou segredo obrigatório vazio`,
     );
+  }
+});
+
+test('@spec:AC-010 Compose sem campos obsoletos', () => {
+  const fragments = [
+    'docker-compose/common.yml',
+    'docker-compose/kafka_cluster.yml',
+    'docker-compose/elastic_cluster.yml',
+    'docker-compose/redis_cluster.yml',
+    'docker-compose/monitoring.yml',
+    'docker-compose/zipkin.yml',
+    'docker-compose/services.yml',
+    'docker-compose/config_server.yml',
+    'docker-compose/twitter_to_kafka.yml',
+    'docker-compose/keycloak_postgres.yml',
+    'docker-compose/keycloak_authorization_server.yml',
+  ];
+
+  for (const fragment of fragments) {
+    assert.doesNotMatch(read(fragment), /^\s*version\s*:/m, `${fragment} declara version obsoleta`);
   }
 });

@@ -1,4 +1,3 @@
-version: '3.7'
 services:
   twitter-to-kafka-service:
     image: ${GROUP_ID}/twitter.to.kafka.service:${SERVICE_VERSION:-latest}
@@ -24,11 +23,11 @@ services:
       - "TWITTER-TO-KAFKA-SERVICE_ENABLE-MOCK-TWEETS=false"
       - "SPRING_CLOUD_CONFIG_URI=http://config-server:8888,http://config-server-ha:8889"
       - "LOG_APP-NAME=twitter-to-kafka-service"
-      - "ENCRYPT_KEY=${ENCRYPT_KEY}"
+      - "ENCRYPT_KEY=${ENCRYPT_KEY:?ENCRYPT_KEY is required}"
       - "SPRING_ZIPKIN_BASE-URL=http://zipkin:9411"
       - "SPRING_ZIPKIN_SENDER_TYPE=web"
       - "SPRING_SLEUTH_SAMPLER_PROBABILITY=1.0"
-      - "TWITTER_BEARER_TOKEN=${TWITTER_BEARER_TOKEN}"
+      - "TWITTER_BEARER_TOKEN=${TWITTER_BEARER_TOKEN:?TWITTER_BEARER_TOKEN is required}"
     networks:
       - ${GLOBAL_NETWORK:-services}
   config-server:
@@ -42,6 +41,6 @@ services:
       - "JAVA_OPTS=-agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=*:5007 -Xms128m -Xmx256m"
       - "LOG_APP-NAME=config-server"
       - "SERVER_PORT=8888"
-      - "ENCRYPT_KEY=${ENCRYPT_KEY}"
+      - "ENCRYPT_KEY=${ENCRYPT_KEY:?ENCRYPT_KEY is required}"
     networks:
       - ${GLOBAL_NETWORK:-services}

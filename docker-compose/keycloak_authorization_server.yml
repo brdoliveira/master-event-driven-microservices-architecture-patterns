@@ -1,4 +1,3 @@
-version: '3.7'
 services:
   keycloak-authorization-server:
     image: quay.io/keycloak/keycloak:${KEYCLOAK_VERSION:-latest}
