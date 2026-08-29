@@ -43,6 +43,7 @@
 
 	<properties>
 		<java.version>17</java.version>
+		<spring-boot.build-image.skip>true</spring-boot.build-image.skip>
 
 		<maven-compiler-plugin.version>3.11.0</maven-compiler-plugin.version>
 
@@ -414,9 +415,21 @@
 					<groupId>org.springframework.boot</groupId>
 					<artifactId>spring-boot-maven-plugin</artifactId>
 					<version>${spring-boot.version}</version>
+					<configuration>
+						<skip>${spring-boot.build-image.skip}</skip>
+					</configuration>
 				</plugin>
 			</plugins>
 		</pluginManagement>
 	</build>
+
+	<profiles>
+		<profile>
+			<id>container-images</id>
+			<properties>
+				<spring-boot.build-image.skip>false</spring-boot.build-image.skip>
+			</properties>
+		</profile>
+	</profiles>
 
 </project>
