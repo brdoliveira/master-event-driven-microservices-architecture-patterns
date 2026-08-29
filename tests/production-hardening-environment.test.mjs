@@ -167,6 +167,7 @@ test('@spec:AC-009 Docker Compose é validável sem segredos reais', () => {
     ['docker-compose/keycloak_postgres.yml'],
     ['docker-compose/keycloak_authorization_server.yml'],
     ['docker-compose/common.yml', 'docker-compose/monitoring.yml'],
+    ['docker-compose/common.yml', 'docker-compose/config_server.yml'],
   ];
 
   for (const files of composeConfigurations) {
