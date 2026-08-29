@@ -14,6 +14,12 @@ server:
 spring:
   application:
     name: gateway-service
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          issuer-uri: ${KEYCLOAK_ISSUER_URI:http://localhost:9091/auth/realms/microservices-realm}
+          jwk-set-uri: ${KEYCLOAK_JWK_SET_URI:http://localhost:9091/auth/realms/microservices-realm/protocol/openid-connect/certs}
   cloud:
     loadbalancer:
       ribbon:

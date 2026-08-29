@@ -27,6 +27,12 @@ server:
   port: 8183
 
 spring:
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          issuer-uri: ${KEYCLOAK_ISSUER_URI:http://localhost:9091/auth/realms/microservices-realm}
+          jwk-set-uri: ${KEYCLOAK_JWK_SET_URI:http://localhost:9091/auth/realms/microservices-realm/protocol/openid-connect/certs}
   webflux:
     base-path: /reactive-elastic-query-service
   codec:
