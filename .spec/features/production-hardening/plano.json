@@ -1,0 +1,214 @@
+{
+  "runId": "master-event-driven-microservices-architecture-patterns-production-hardening-mtexx6kx",
+  "feature": "production-hardening",
+  "agent": "codex",
+  "modo": "paralelo",
+  "paralelizar": null,
+  "modeloForcado": null,
+  "esforcoForcado": null,
+  "geradoEm": "2026-08-29 22:16",
+  "branchTrabalho": "spec/production-hardening",
+  "baseDir": ".spec/features/production-hardening",
+  "specDir": ".spec",
+  "repoName": "master-event-driven-microservices-architecture-patterns",
+  "logsDir": "../onp-worktrees/master-event-driven-microservices-architecture-patterns-production-hardening-logs",
+  "ondas": [
+    [
+      "faixa-1",
+      "faixa-2",
+      "faixa-3"
+    ],
+    [
+      "faixa-4"
+    ]
+  ],
+  "faixas": [
+    {
+      "id": "faixa-1",
+      "branch": "spec/production-hardening-faixa-1",
+      "worktree": "../onp-worktrees/master-event-driven-microservices-architecture-patterns-production-hardening-faixa-1",
+      "tarefas": [
+        {
+          "id": "T-001",
+          "titulo": "Criar gates estruturais de segurança e operação",
+          "modelo": "gpt-5.6-sol",
+          "esforco": "high",
+          "arquivos": [
+            "tests/production-hardening.test.mjs",
+            ".spec/constituicao.md",
+            "onpspec.config.json"
+          ],
+          "refs": [
+            "US-001",
+            "AC-001",
+            "AC-002",
+            "US-002",
+            "AC-003",
+            "AC-004",
+            "US-003",
+            "AC-005",
+            "AC-006",
+            "AC-007",
+            "AC-008",
+            "US-004",
+            "AC-009",
+            "AC-010",
+            "AC-011",
+            "AC-012"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faixa-2",
+      "branch": "spec/production-hardening-faixa-2",
+      "worktree": "../onp-worktrees/master-event-driven-microservices-architecture-patterns-production-hardening-faixa-2",
+      "tarefas": [
+        {
+          "id": "T-002",
+          "titulo": "Sanear credenciais e exemplos de ambiente",
+          "modelo": "gpt-5.6-sol",
+          "esforco": "high",
+          "arquivos": [
+            ".gitignore",
+            ".env.example",
+            "docker-compose/.env.example",
+            "docker-compose/services.yml",
+            "docker-compose/keycloak_postgres.yml",
+            "docker-compose/keycloak_authorization_server.yml",
+            "docker-compose/monitoring.yml",
+            "config-server-repository/config-client-analytics.yml",
+            "config-server-repository/config-client-elastic_query.yml",
+            "config-server-repository/config-client-elastic_query_web.yml",
+            "config-server-repository/config-client-elastic_query_web_2.yml",
+            "twitter-to-kafka-service/src/main/resources/application.yml",
+            "reactive-elastic-query-service/src/main/resources/bootstrap.yml",
+            "reactive-elastic-query-web-client/src/main/resources/bootstrap.yml",
+            "elastic-query-web-client-2/src/main/resources/bootstrap.yml"
+          ],
+          "refs": [
+            "US-001",
+            "AC-001",
+            "AC-002",
+            "US-004",
+            "AC-009"
+          ]
+        },
+        {
+          "id": "T-004",
+          "titulo": "Tornar o Config Server local e seguro por padrão",
+          "modelo": "gpt-5.6-sol",
+          "esforco": "high",
+          "arquivos": [
+            "config-server/src/main/resources/application.yml",
+            "config-server/src/main/resources/application-git.yml",
+            "config-server/src/main/java/com/microservices/demo/config/server/config/SecurityConfig.java",
+            "docker-compose/services.yml",
+            "docker-compose/config_server.yml"
+          ],
+          "refs": [
+            "US-003",
+            "AC-005",
+            "AC-006",
+            "US-004",
+            "AC-009"
+          ]
+        },
+        {
+          "id": "T-006",
+          "titulo": "Modernizar e validar a composição Docker",
+          "modelo": "gpt-5.6-terra",
+          "esforco": "medium",
+          "arquivos": [
+            "docker-compose/common.yml",
+            "docker-compose/kafka_cluster.yml",
+            "docker-compose/elastic_cluster.yml",
+            "docker-compose/redis_cluster.yml",
+            "docker-compose/monitoring.yml",
+            "docker-compose/zipkin.yml",
+            "docker-compose/services.yml",
+            "docker-compose/config_server.yml",
+            "docker-compose/twitter_to_kafka.yml",
+            "docker-compose/keycloak_postgres.yml",
+            "docker-compose/keycloak_authorization_server.yml"
+          ],
+          "refs": [
+            "US-004",
+            "AC-009",
+            "AC-010"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faixa-3",
+      "branch": "spec/production-hardening-faixa-3",
+      "worktree": "../onp-worktrees/master-event-driven-microservices-architecture-patterns-production-hardening-faixa-3",
+      "tarefas": [
+        {
+          "id": "T-003",
+          "titulo": "Restaurar Maven Wrapper e isolar criação de imagens",
+          "modelo": "gpt-5.6-sol",
+          "esforco": "high",
+          "arquivos": [
+            ".mvn/wrapper/maven-wrapper.properties",
+            ".mvn/wrapper/maven-wrapper.jar",
+            "pom.xml",
+            "README.md"
+          ],
+          "refs": [
+            "US-002",
+            "AC-003",
+            "AC-004"
+          ]
+        },
+        {
+          "id": "T-007",
+          "titulo": "Documentar operação e adicionar CI",
+          "modelo": "gpt-5.6-terra",
+          "esforco": "medium",
+          "arquivos": [
+            "README.md",
+            ".github/workflows/ci.yml"
+          ],
+          "refs": [
+            "US-004",
+            "AC-011",
+            "AC-012",
+            "US-002",
+            "AC-004"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faixa-4",
+      "branch": "spec/production-hardening-faixa-4",
+      "worktree": "../onp-worktrees/master-event-driven-microservices-architecture-patterns-production-hardening-faixa-4",
+      "tarefas": [
+        {
+          "id": "T-005",
+          "titulo": "Proteger Gateway e API reativa com JWT",
+          "modelo": "gpt-5.6-sol",
+          "esforco": "high",
+          "arquivos": [
+            "gateway-service/pom.xml",
+            "gateway-service/src/main/java/com/microservices/demo/gateway/service/config/WebSecurityConfig.java",
+            "config-server-repository/config-client-gateway.yml",
+            "reactive-elastic-query-service/pom.xml",
+            "reactive-elastic-query-service/src/main/java/com/microservices/demo/reactive/elastic/query/service/config/WebSecurityConfig.java",
+            "config-server-repository/config-client-reactive_elastic_query.yml"
+          ],
+          "refs": [
+            "US-003",
+            "AC-007",
+            "AC-008"
+          ]
+        }
+      ]
+    }
+  ],
+  "sequenciais": [],
+  "concluidas": [],
+  "avisos": []
+}

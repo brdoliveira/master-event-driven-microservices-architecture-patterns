@@ -1,0 +1,26 @@
+{
+  "testCommand": "node --test tests",
+  "reporter": "tap",
+  "testGlobs": [
+    "tests/**",
+    ".spec/tests/**"
+  ],
+  "srcGlobs": [
+    "tests/**",
+    ".mvn/wrapper/**",
+    "pom.xml",
+    "README.md",
+    ".gitignore",
+    ".env.example",
+    ".github/**",
+    "docker-compose/*.yml",
+    "docker-compose/.env.example",
+    "config-server/src/main/resources/application*.yml",
+    "config-server/src/main/java/**/SecurityConfig.java",
+    "gateway-service/pom.xml",
+    "gateway-service/src/main/java/**/WebSecurityConfig.java",
+    "reactive-elastic-query-service/pom.xml",
+    "reactive-elastic-query-service/src/main/java/**/WebSecurityConfig.java",
+    "config-server-repository/config-client*.yml"
+  ]
+}

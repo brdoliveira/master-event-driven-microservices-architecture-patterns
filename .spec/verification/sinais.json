@@ -1,0 +1,2363 @@
+{
+  "schema": 1,
+  "sinais": {
+    "ARQUIVO_INEXISTENTE::production-hardening::T-001": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "production-hardening",
+      "ref": "T-001",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.835Z",
+      "ultimaVez": "2026-08-29T22:16:05.835Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_INEXISTENTE::production-hardening::T-002": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "production-hardening",
+      "ref": "T-002",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_INEXISTENTE::production-hardening::T-003": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "production-hardening",
+      "ref": "T-003",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_INEXISTENTE::production-hardening::T-004": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "production-hardening",
+      "ref": "T-004",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_INEXISTENTE::production-hardening::T-007": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "production-hardening",
+      "ref": "T-007",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "AC_SEM_TESTE::production-hardening::AC-001": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "production-hardening",
+      "ref": "AC-001",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "AC_SEM_TESTE::production-hardening::AC-002": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "production-hardening",
+      "ref": "AC-002",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "AC_SEM_TESTE::production-hardening::AC-003": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "production-hardening",
+      "ref": "AC-003",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "AC_SEM_TESTE::production-hardening::AC-004": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "production-hardening",
+      "ref": "AC-004",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "AC_SEM_TESTE::production-hardening::AC-005": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "production-hardening",
+      "ref": "AC-005",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "AC_SEM_TESTE::production-hardening::AC-006": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "production-hardening",
+      "ref": "AC-006",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "AC_SEM_TESTE::production-hardening::AC-007": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "production-hardening",
+      "ref": "AC-007",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "AC_SEM_TESTE::production-hardening::AC-008": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "production-hardening",
+      "ref": "AC-008",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "AC_SEM_TESTE::production-hardening::AC-009": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "production-hardening",
+      "ref": "AC-009",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "AC_SEM_TESTE::production-hardening::AC-010": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "production-hardening",
+      "ref": "AC-010",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "AC_SEM_TESTE::production-hardening::AC-011": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "production-hardening",
+      "ref": "AC-011",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "AC_SEM_TESTE::production-hardening::AC-012": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "production-hardening",
+      "ref": "AC-012",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::analytics-service/pom.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "analytics-service/pom.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::analytics-service/src/main/java/com/microservices/demo/analytics/service/AnalyticsApplication.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "analytics-service/src/main/java/com/microservices/demo/analytics/service/AnalyticsApplication.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::analytics-service/src/main/java/com/microservices/demo/analytics/service/Constants.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "analytics-service/src/main/java/com/microservices/demo/analytics/service/Constants.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::analytics-service/src/main/java/com/microservices/demo/analytics/service/api/AnalyticsController.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "analytics-service/src/main/java/com/microservices/demo/analytics/service/api/AnalyticsController.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::analytics-service/src/main/java/com/microservices/demo/analytics/service/business/AnalyticsService.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "analytics-service/src/main/java/com/microservices/demo/analytics/service/business/AnalyticsService.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::analytics-service/src/main/java/com/microservices/demo/analytics/service/business/KafkaConsumer.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "analytics-service/src/main/java/com/microservices/demo/analytics/service/business/KafkaConsumer.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::analytics-service/src/main/java/com/microservices/demo/analytics/service/business/impl/AnalyticsKafkaConsumer.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "analytics-service/src/main/java/com/microservices/demo/analytics/service/business/impl/AnalyticsKafkaConsumer.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::analytics-service/src/main/java/com/microservices/demo/analytics/service/business/impl/TwitterAnalyticsService.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "analytics-service/src/main/java/com/microservices/demo/analytics/service/business/impl/TwitterAnalyticsService.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::analytics-service/src/main/java/com/microservices/demo/analytics/service/config/WebSecurityConfig.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "analytics-service/src/main/java/com/microservices/demo/analytics/service/config/WebSecurityConfig.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::analytics-service/src/main/java/com/microservices/demo/analytics/service/dataaccess/entity/AnalyticsEntity.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "analytics-service/src/main/java/com/microservices/demo/analytics/service/dataaccess/entity/AnalyticsEntity.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::analytics-service/src/main/java/com/microservices/demo/analytics/service/dataaccess/entity/BaseEntity.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "analytics-service/src/main/java/com/microservices/demo/analytics/service/dataaccess/entity/BaseEntity.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::analytics-service/src/main/java/com/microservices/demo/analytics/service/dataaccess/repository/AnalyticsCustomRepository.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "analytics-service/src/main/java/com/microservices/demo/analytics/service/dataaccess/repository/AnalyticsCustomRepository.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::analytics-service/src/main/java/com/microservices/demo/analytics/service/dataaccess/repository/AnalyticsRepository.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "analytics-service/src/main/java/com/microservices/demo/analytics/service/dataaccess/repository/AnalyticsRepository.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::analytics-service/src/main/java/com/microservices/demo/analytics/service/dataaccess/repository/impl/AnalyticsRepositoryImpl.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "analytics-service/src/main/java/com/microservices/demo/analytics/service/dataaccess/repository/impl/AnalyticsRepositoryImpl.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::analytics-service/src/main/java/com/microservices/demo/analytics/service/model/AnalyticsResponseModel.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "analytics-service/src/main/java/com/microservices/demo/analytics/service/model/AnalyticsResponseModel.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::analytics-service/src/main/java/com/microservices/demo/analytics/service/security/AnalyticsUser.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "analytics-service/src/main/java/com/microservices/demo/analytics/service/security/AnalyticsUser.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::analytics-service/src/main/java/com/microservices/demo/analytics/service/security/AnalyticsUserDetailsService.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "analytics-service/src/main/java/com/microservices/demo/analytics/service/security/AnalyticsUserDetailsService.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::analytics-service/src/main/java/com/microservices/demo/analytics/service/security/AnalyticsUserJwtConverter.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "analytics-service/src/main/java/com/microservices/demo/analytics/service/security/AnalyticsUserJwtConverter.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::analytics-service/src/main/java/com/microservices/demo/analytics/service/security/AudienceValidator.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "analytics-service/src/main/java/com/microservices/demo/analytics/service/security/AudienceValidator.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::analytics-service/src/main/java/com/microservices/demo/analytics/service/transformer/AvroToDbEntityModelTransformer.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "analytics-service/src/main/java/com/microservices/demo/analytics/service/transformer/AvroToDbEntityModelTransformer.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::analytics-service/src/main/java/com/microservices/demo/analytics/service/transformer/EntityToResponseModelTransformer.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "analytics-service/src/main/java/com/microservices/demo/analytics/service/transformer/EntityToResponseModelTransformer.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::analytics-service/src/main/resources/application.yml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "analytics-service/src/main/resources/application.yml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::analytics-service/src/main/resources/logback-spring.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "analytics-service/src/main/resources/logback-spring.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::app-config-data/pom.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "app-config-data/pom.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::app-config-data/src/main/java/com/microservices/demo/config/AnalyticsServiceConfigData.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "app-config-data/src/main/java/com/microservices/demo/config/AnalyticsServiceConfigData.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::app-config-data/src/main/java/com/microservices/demo/config/ElasticConfigData.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "app-config-data/src/main/java/com/microservices/demo/config/ElasticConfigData.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::app-config-data/src/main/java/com/microservices/demo/config/ElasticQueryConfigData.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "app-config-data/src/main/java/com/microservices/demo/config/ElasticQueryConfigData.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::app-config-data/src/main/java/com/microservices/demo/config/ElasticQueryServiceConfigData.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "app-config-data/src/main/java/com/microservices/demo/config/ElasticQueryServiceConfigData.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::app-config-data/src/main/java/com/microservices/demo/config/ElasticQueryWebClientConfigData.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "app-config-data/src/main/java/com/microservices/demo/config/ElasticQueryWebClientConfigData.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::app-config-data/src/main/java/com/microservices/demo/config/GatewayServiceConfigData.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "app-config-data/src/main/java/com/microservices/demo/config/GatewayServiceConfigData.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::app-config-data/src/main/java/com/microservices/demo/config/KafkaConfigData.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "app-config-data/src/main/java/com/microservices/demo/config/KafkaConfigData.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::app-config-data/src/main/java/com/microservices/demo/config/KafkaConsumerConfigData.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "app-config-data/src/main/java/com/microservices/demo/config/KafkaConsumerConfigData.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::app-config-data/src/main/java/com/microservices/demo/config/KafkaProducerConfigData.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "app-config-data/src/main/java/com/microservices/demo/config/KafkaProducerConfigData.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::app-config-data/src/main/java/com/microservices/demo/config/KafkaStreamsConfigData.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "app-config-data/src/main/java/com/microservices/demo/config/KafkaStreamsConfigData.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::app-config-data/src/main/java/com/microservices/demo/config/KafkaStreamsServiceConfigData.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "app-config-data/src/main/java/com/microservices/demo/config/KafkaStreamsServiceConfigData.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::app-config-data/src/main/java/com/microservices/demo/config/RetryConfigData.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "app-config-data/src/main/java/com/microservices/demo/config/RetryConfigData.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::app-config-data/src/main/java/com/microservices/demo/config/TwitterToKafkaServiceConfigData.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "app-config-data/src/main/java/com/microservices/demo/config/TwitterToKafkaServiceConfigData.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::app-config-data/src/main/java/com/microservices/demo/config/UserConfigData.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "app-config-data/src/main/java/com/microservices/demo/config/UserConfigData.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::app-config-data/src/main/resources/logback-common.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "app-config-data/src/main/resources/logback-common.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::common-config/pom.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "common-config/pom.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::common-config/src/main/java/com/microservices/demo/common/config/RetryConfig.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "common-config/src/main/java/com/microservices/demo/common/config/RetryConfig.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::common-util/pom.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "common-util/pom.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::common-util/src/main/java/com/microservices/demo/common/util/CollectionsUtil.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "common-util/src/main/java/com/microservices/demo/common/util/CollectionsUtil.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::config-server/pom.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "config-server/pom.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::config-server/src/main/java/com/microservices/demo/config/server/ConfigServer.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "config-server/src/main/java/com/microservices/demo/config/server/ConfigServer.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::config-server/src/main/resources/logback-spring.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "config-server/src/main/resources/logback-spring.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::discovery-service/pom.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "discovery-service/pom.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::discovery-service/src/main/java/com/microservices/demo/discovery/service/ServiceRegistrationAndDiscoveryServiceApplication.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "discovery-service/src/main/java/com/microservices/demo/discovery/service/ServiceRegistrationAndDiscoveryServiceApplication.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::discovery-service/src/main/resources/application-singleserver.yml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "discovery-service/src/main/resources/application-singleserver.yml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::discovery-service/src/main/resources/application.yml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "discovery-service/src/main/resources/application.yml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::discovery-service/src/main/resources/logback-spring.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "discovery-service/src/main/resources/logback-spring.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::docker-compose/.env": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "docker-compose/.env",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::docker-compose/check-config-server-started.sh": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "docker-compose/check-config-server-started.sh",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::docker-compose/check-config-server-started_twitter_to_kafka.sh": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "docker-compose/check-config-server-started_twitter_to_kafka.sh",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::docker-compose/check-kafka-topics-created.sh": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "docker-compose/check-kafka-topics-created.sh",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::docker-compose/check-keycloak-server-started.sh": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "docker-compose/check-keycloak-server-started.sh",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::docker-compose/check-postgres-server-started.sh": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "docker-compose/check-postgres-server-started.sh",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::docker-compose/config/logback.conf": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "docker-compose/config/logback.conf",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::docker-compose/config/prometheus.yml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "docker-compose/config/prometheus.yml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::docker-compose/keycloak_token.txt": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "docker-compose/keycloak_token.txt",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service-common/pom.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service-common/pom.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service-common/src/main/java/com/microservices/demo/elastic/query/service/common/api/error/handler/ElasticQueryServiceErrorHandler.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service-common/src/main/java/com/microservices/demo/elastic/query/service/common/api/error/handler/ElasticQueryServiceErrorHandler.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service-common/src/main/java/com/microservices/demo/elastic/query/service/common/exception/ElasticQueryServiceException.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service-common/src/main/java/com/microservices/demo/elastic/query/service/common/exception/ElasticQueryServiceException.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service-common/src/main/java/com/microservices/demo/elastic/query/service/common/model/ElasticQueryServiceRequestModel.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service-common/src/main/java/com/microservices/demo/elastic/query/service/common/model/ElasticQueryServiceRequestModel.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service-common/src/main/java/com/microservices/demo/elastic/query/service/common/model/ElasticQueryServiceResponseModel.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service-common/src/main/java/com/microservices/demo/elastic/query/service/common/model/ElasticQueryServiceResponseModel.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service-common/src/main/java/com/microservices/demo/elastic/query/service/common/transformer/ElasticToResponseModelTransformer.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service-common/src/main/java/com/microservices/demo/elastic/query/service/common/transformer/ElasticToResponseModelTransformer.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service/pom.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service/pom.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/Constants.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/Constants.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/ElasticQueryServiceApplication.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/ElasticQueryServiceApplication.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/QueryType.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/QueryType.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/api/ElasticDocumentController.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/api/ElasticDocumentController.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/business/ElasticQueryService.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/business/ElasticQueryService.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/business/QueryUserService.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/business/QueryUserService.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/business/impl/TwitterElasticQueryService.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/business/impl/TwitterElasticQueryService.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/business/impl/TwitterQueryUserService.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/business/impl/TwitterQueryUserService.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/config/WebClientConfig.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/config/WebClientConfig.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/config/WebSecurityConfig.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/config/WebSecurityConfig.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/dataaccess/entity/UserPermission.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/dataaccess/entity/UserPermission.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/dataaccess/repository/UserPermissionRepository.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/dataaccess/repository/UserPermissionRepository.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/model/ElasticQueryServiceAnalyticsResponseModel.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/model/ElasticQueryServiceAnalyticsResponseModel.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/model/ElasticQueryServiceResponseModelV2.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/model/ElasticQueryServiceResponseModelV2.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/model/ElasticQueryServiceWordCountResponseModel.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/model/ElasticQueryServiceWordCountResponseModel.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/model/assembler/ElasticQueryServiceResponseModelAssembler.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/model/assembler/ElasticQueryServiceResponseModelAssembler.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/security/AudienceValidator.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/security/AudienceValidator.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/security/PermissionType.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/security/PermissionType.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/security/QueryServicePermissionEvaluator.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/security/QueryServicePermissionEvaluator.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/security/TwitterQueryUser.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/security/TwitterQueryUser.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/security/TwitterQueryUserDetailsService.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/security/TwitterQueryUserDetailsService.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/security/TwitterQueryUserJwtConverter.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/security/TwitterQueryUserJwtConverter.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/transformer/UserPermissionsToUserDetailTransformer.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service/src/main/java/com/microservices/demo/elastic/query/service/transformer/UserPermissionsToUserDetailTransformer.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service/src/main/resources/application.yml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service/src/main/resources/application.yml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service/src/main/resources/init-data.sql": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service/src/main/resources/init-data.sql",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service/src/main/resources/init-schema.sql": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service/src/main/resources/init-schema.sql",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service/src/main/resources/logback-spring.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service/src/main/resources/logback-spring.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-service/src/test/java/com/microservices/demo/elastic/query/service/ElasticQueryServiceApplicationTests.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-service/src/test/java/com/microservices/demo/elastic/query/service/ElasticQueryServiceApplicationTests.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client-2/pom.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client-2/pom.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client-2/src/main/java/com/microservices/demo/elastic/query/web/client/ElasticQueryWebClientApplication.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client-2/src/main/java/com/microservices/demo/elastic/query/web/client/ElasticQueryWebClientApplication.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client-2/src/main/java/com/microservices/demo/elastic/query/web/client/api/QueryController.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client-2/src/main/java/com/microservices/demo/elastic/query/web/client/api/QueryController.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client-2/src/main/java/com/microservices/demo/elastic/query/web/client/config/WebClientConfig.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client-2/src/main/java/com/microservices/demo/elastic/query/web/client/config/WebClientConfig.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client-2/src/main/java/com/microservices/demo/elastic/query/web/client/config/WebSecurityConfig.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client-2/src/main/java/com/microservices/demo/elastic/query/web/client/config/WebSecurityConfig.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client-2/src/main/java/com/microservices/demo/elastic/query/web/client/service/ElasticQueryWebClient.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client-2/src/main/java/com/microservices/demo/elastic/query/web/client/service/ElasticQueryWebClient.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client-2/src/main/java/com/microservices/demo/elastic/query/web/client/service/impl/TwitterElasticQueryWebClient.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client-2/src/main/java/com/microservices/demo/elastic/query/web/client/service/impl/TwitterElasticQueryWebClient.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client-2/src/main/resources/application.yml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client-2/src/main/resources/application.yml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client-2/src/main/resources/logback-spring.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client-2/src/main/resources/logback-spring.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client-2/src/main/resources/templates/error.html": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client-2/src/main/resources/templates/error.html",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client-2/src/main/resources/templates/footer.html": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client-2/src/main/resources/templates/footer.html",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client-2/src/main/resources/templates/header.html": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client-2/src/main/resources/templates/header.html",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client-2/src/main/resources/templates/home.html": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client-2/src/main/resources/templates/home.html",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client-2/src/main/resources/templates/index.html": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client-2/src/main/resources/templates/index.html",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client-common/pom.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client-common/pom.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client-common/src/main/java/com/microservices/demo/elastic/query/web/client/common/api/error/handler/ElasticQueryWebClientErrorHandler.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client-common/src/main/java/com/microservices/demo/elastic/query/web/client/common/api/error/handler/ElasticQueryWebClientErrorHandler.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client-common/src/main/java/com/microservices/demo/elastic/query/web/client/common/exception/ElasticQueryWebClientException.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client-common/src/main/java/com/microservices/demo/elastic/query/web/client/common/exception/ElasticQueryWebClientException.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client-common/src/main/java/com/microservices/demo/elastic/query/web/client/common/model/ElasticQueryWebClientAnalyticsResponseModel.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client-common/src/main/java/com/microservices/demo/elastic/query/web/client/common/model/ElasticQueryWebClientAnalyticsResponseModel.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client-common/src/main/java/com/microservices/demo/elastic/query/web/client/common/model/ElasticQueryWebClientRequestModel.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client-common/src/main/java/com/microservices/demo/elastic/query/web/client/common/model/ElasticQueryWebClientRequestModel.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client-common/src/main/java/com/microservices/demo/elastic/query/web/client/common/model/ElasticQueryWebClientResponseModel.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client-common/src/main/java/com/microservices/demo/elastic/query/web/client/common/model/ElasticQueryWebClientResponseModel.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client/pom.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client/pom.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client/src/main/java/com/microservices/demo/elastic/query/web/client/ElasticQueryWebClientApplication.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client/src/main/java/com/microservices/demo/elastic/query/web/client/ElasticQueryWebClientApplication.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client/src/main/java/com/microservices/demo/elastic/query/web/client/api/QueryController.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client/src/main/java/com/microservices/demo/elastic/query/web/client/api/QueryController.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client/src/main/java/com/microservices/demo/elastic/query/web/client/config/WebClientConfig.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client/src/main/java/com/microservices/demo/elastic/query/web/client/config/WebClientConfig.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client/src/main/java/com/microservices/demo/elastic/query/web/client/config/WebSecurityConfig.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client/src/main/java/com/microservices/demo/elastic/query/web/client/config/WebSecurityConfig.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client/src/main/java/com/microservices/demo/elastic/query/web/client/service/ElasticQueryWebClient.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client/src/main/java/com/microservices/demo/elastic/query/web/client/service/ElasticQueryWebClient.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client/src/main/java/com/microservices/demo/elastic/query/web/client/service/impl/TwitterElasticQueryWebClient.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client/src/main/java/com/microservices/demo/elastic/query/web/client/service/impl/TwitterElasticQueryWebClient.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client/src/main/resources/application.yml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client/src/main/resources/application.yml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client/src/main/resources/logback-spring.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client/src/main/resources/logback-spring.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client/src/main/resources/templates/error.html": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client/src/main/resources/templates/error.html",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client/src/main/resources/templates/footer.html": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client/src/main/resources/templates/footer.html",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client/src/main/resources/templates/header.html": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client/src/main/resources/templates/header.html",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client/src/main/resources/templates/home.html": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client/src/main/resources/templates/home.html",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client/src/main/resources/templates/index.html": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client/src/main/resources/templates/index.html",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic-query-web-client/src/test/java/com/microservices/demo/elastic/query/web/client/ElasticQueryWebClientApplicationTests.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic-query-web-client/src/test/java/com/microservices/demo/elastic/query/web/client/ElasticQueryWebClientApplicationTests.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic/elastic-config/pom.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic/elastic-config/pom.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic/elastic-config/src/main/java/com/microservices/demo/elastic/config/ElasticsearchConfig.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic/elastic-config/src/main/java/com/microservices/demo/elastic/config/ElasticsearchConfig.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic/elastic-index-client/pom.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic/elastic-index-client/pom.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic/elastic-index-client/src/main/java/com/microservices/demo/elastic/index/client/repository/TwitterElasticsearchIndexRepository.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic/elastic-index-client/src/main/java/com/microservices/demo/elastic/index/client/repository/TwitterElasticsearchIndexRepository.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic/elastic-index-client/src/main/java/com/microservices/demo/elastic/index/client/service/ElasticIndexClient.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic/elastic-index-client/src/main/java/com/microservices/demo/elastic/index/client/service/ElasticIndexClient.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic/elastic-index-client/src/main/java/com/microservices/demo/elastic/index/client/service/impl/TwitterElasticIndexClient.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic/elastic-index-client/src/main/java/com/microservices/demo/elastic/index/client/service/impl/TwitterElasticIndexClient.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic/elastic-index-client/src/main/java/com/microservices/demo/elastic/index/client/service/impl/TwitterElasticRepositoryIndexClient.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic/elastic-index-client/src/main/java/com/microservices/demo/elastic/index/client/service/impl/TwitterElasticRepositoryIndexClient.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic/elastic-index-client/src/main/java/com/microservices/demo/elastic/index/client/util/ElasticIndexUtil.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic/elastic-index-client/src/main/java/com/microservices/demo/elastic/index/client/util/ElasticIndexUtil.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic/elastic-model/pom.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic/elastic-model/pom.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic/elastic-model/src/main/java/com/microservices/demo/elastic/model/index/IndexModel.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic/elastic-model/src/main/java/com/microservices/demo/elastic/model/index/IndexModel.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic/elastic-model/src/main/java/com/microservices/demo/elastic/model/index/impl/TwitterIndexModel.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic/elastic-model/src/main/java/com/microservices/demo/elastic/model/index/impl/TwitterIndexModel.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic/elastic-query-client/pom.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic/elastic-query-client/pom.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic/elastic-query-client/src/main/java/com/microservices/demo/elastic/query/client/exception/ElasticQueryClientException.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic/elastic-query-client/src/main/java/com/microservices/demo/elastic/query/client/exception/ElasticQueryClientException.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic/elastic-query-client/src/main/java/com/microservices/demo/elastic/query/client/repository/TwitterElasticsearchQueryRepository.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic/elastic-query-client/src/main/java/com/microservices/demo/elastic/query/client/repository/TwitterElasticsearchQueryRepository.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic/elastic-query-client/src/main/java/com/microservices/demo/elastic/query/client/service/ElasticQueryClient.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic/elastic-query-client/src/main/java/com/microservices/demo/elastic/query/client/service/ElasticQueryClient.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic/elastic-query-client/src/main/java/com/microservices/demo/elastic/query/client/service/impl/TwitterElasticQueryClient.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic/elastic-query-client/src/main/java/com/microservices/demo/elastic/query/client/service/impl/TwitterElasticQueryClient.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic/elastic-query-client/src/main/java/com/microservices/demo/elastic/query/client/service/impl/TwitterElasticRepositoryQueryClient.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic/elastic-query-client/src/main/java/com/microservices/demo/elastic/query/client/service/impl/TwitterElasticRepositoryQueryClient.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic/elastic-query-client/src/main/java/com/microservices/demo/elastic/query/client/util/ElasticQueryUtil.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic/elastic-query-client/src/main/java/com/microservices/demo/elastic/query/client/util/ElasticQueryUtil.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::elastic/pom.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "elastic/pom.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::gateway-service/src/main/java/com/microservices/demo/gateway/service/GatewayServiceApplication.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "gateway-service/src/main/java/com/microservices/demo/gateway/service/GatewayServiceApplication.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::gateway-service/src/main/java/com/microservices/demo/gateway/service/config/GatewayConfig.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "gateway-service/src/main/java/com/microservices/demo/gateway/service/config/GatewayConfig.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::gateway-service/src/main/java/com/microservices/demo/gateway/service/controller/FallbackController.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "gateway-service/src/main/java/com/microservices/demo/gateway/service/controller/FallbackController.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::gateway-service/src/main/java/com/microservices/demo/gateway/service/model/AnalyticsDataFallbackModel.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "gateway-service/src/main/java/com/microservices/demo/gateway/service/model/AnalyticsDataFallbackModel.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::gateway-service/src/main/java/com/microservices/demo/gateway/service/model/QueryServiceFallbackModel.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "gateway-service/src/main/java/com/microservices/demo/gateway/service/model/QueryServiceFallbackModel.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::gateway-service/src/main/resources/application.yml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "gateway-service/src/main/resources/application.yml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::gateway-service/src/main/resources/logback-spring.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "gateway-service/src/main/resources/logback-spring.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka-streams-service/pom.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka-streams-service/pom.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka-streams-service/src/main/java/com/microservices/demo/kafka/streams/service/Constants.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka-streams-service/src/main/java/com/microservices/demo/kafka/streams/service/Constants.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka-streams-service/src/main/java/com/microservices/demo/kafka/streams/service/KafkaStreamsServiceApplication.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka-streams-service/src/main/java/com/microservices/demo/kafka/streams/service/KafkaStreamsServiceApplication.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka-streams-service/src/main/java/com/microservices/demo/kafka/streams/service/api/KafkaStreamsController.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka-streams-service/src/main/java/com/microservices/demo/kafka/streams/service/api/KafkaStreamsController.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka-streams-service/src/main/java/com/microservices/demo/kafka/streams/service/config/KafkaStreamsConfig.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka-streams-service/src/main/java/com/microservices/demo/kafka/streams/service/config/KafkaStreamsConfig.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka-streams-service/src/main/java/com/microservices/demo/kafka/streams/service/config/WebSecurityConfig.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka-streams-service/src/main/java/com/microservices/demo/kafka/streams/service/config/WebSecurityConfig.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka-streams-service/src/main/java/com/microservices/demo/kafka/streams/service/init/StreamsInitializer.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka-streams-service/src/main/java/com/microservices/demo/kafka/streams/service/init/StreamsInitializer.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka-streams-service/src/main/java/com/microservices/demo/kafka/streams/service/init/impl/KafkaStreamsInitializer.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka-streams-service/src/main/java/com/microservices/demo/kafka/streams/service/init/impl/KafkaStreamsInitializer.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka-streams-service/src/main/java/com/microservices/demo/kafka/streams/service/model/KafkaStreamsResponseModel.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka-streams-service/src/main/java/com/microservices/demo/kafka/streams/service/model/KafkaStreamsResponseModel.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka-streams-service/src/main/java/com/microservices/demo/kafka/streams/service/runner/StreamsRunner.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka-streams-service/src/main/java/com/microservices/demo/kafka/streams/service/runner/StreamsRunner.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka-streams-service/src/main/java/com/microservices/demo/kafka/streams/service/runner/impl/KafkaStreamsRunner.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka-streams-service/src/main/java/com/microservices/demo/kafka/streams/service/runner/impl/KafkaStreamsRunner.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka-streams-service/src/main/java/com/microservices/demo/kafka/streams/service/security/AudienceValidator.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka-streams-service/src/main/java/com/microservices/demo/kafka/streams/service/security/AudienceValidator.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka-streams-service/src/main/java/com/microservices/demo/kafka/streams/service/security/KafkaStreamsUser.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka-streams-service/src/main/java/com/microservices/demo/kafka/streams/service/security/KafkaStreamsUser.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka-streams-service/src/main/java/com/microservices/demo/kafka/streams/service/security/KafkaStreamsUserDetailsService.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka-streams-service/src/main/java/com/microservices/demo/kafka/streams/service/security/KafkaStreamsUserDetailsService.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka-streams-service/src/main/java/com/microservices/demo/kafka/streams/service/security/KafkaStreamsUserJwtConverter.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka-streams-service/src/main/java/com/microservices/demo/kafka/streams/service/security/KafkaStreamsUserJwtConverter.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka-streams-service/src/main/resources/application.yml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka-streams-service/src/main/resources/application.yml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka-streams-service/src/main/resources/logback-spring.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka-streams-service/src/main/resources/logback-spring.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka-to-elastic-service/pom.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka-to-elastic-service/pom.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka-to-elastic-service/src/main/java/com/microservices/demo/kafka/to/elastic/service/KafkaToElasticServiceApplication.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka-to-elastic-service/src/main/java/com/microservices/demo/kafka/to/elastic/service/KafkaToElasticServiceApplication.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka-to-elastic-service/src/main/java/com/microservices/demo/kafka/to/elastic/service/consumer/KafkaConsumer.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka-to-elastic-service/src/main/java/com/microservices/demo/kafka/to/elastic/service/consumer/KafkaConsumer.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka-to-elastic-service/src/main/java/com/microservices/demo/kafka/to/elastic/service/consumer/impl/TwitterKafkaConsumer.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka-to-elastic-service/src/main/java/com/microservices/demo/kafka/to/elastic/service/consumer/impl/TwitterKafkaConsumer.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka-to-elastic-service/src/main/java/com/microservices/demo/kafka/to/elastic/service/transformer/AvroToElasticModelTransformer.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka-to-elastic-service/src/main/java/com/microservices/demo/kafka/to/elastic/service/transformer/AvroToElasticModelTransformer.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka-to-elastic-service/src/main/resources/application.yml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka-to-elastic-service/src/main/resources/application.yml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka-to-elastic-service/src/main/resources/logback-spring.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka-to-elastic-service/src/main/resources/logback-spring.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka/kafka-admin/pom.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka/kafka-admin/pom.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.836Z",
+      "ultimaVez": "2026-08-29T22:16:05.836Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka/kafka-admin/src/main/java/com/microservices/demo/kafka/admin/client/KafkaAdminClient.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka/kafka-admin/src/main/java/com/microservices/demo/kafka/admin/client/KafkaAdminClient.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka/kafka-admin/src/main/java/com/microservices/demo/kafka/admin/config/KafkaAdminConfig.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka/kafka-admin/src/main/java/com/microservices/demo/kafka/admin/config/KafkaAdminConfig.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka/kafka-admin/src/main/java/com/microservices/demo/kafka/admin/config/WebClientConfig.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka/kafka-admin/src/main/java/com/microservices/demo/kafka/admin/config/WebClientConfig.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka/kafka-admin/src/main/java/com/microservices/demo/kafka/admin/exception/KafkaClientException.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka/kafka-admin/src/main/java/com/microservices/demo/kafka/admin/exception/KafkaClientException.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka/kafka-consumer/pom.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka/kafka-consumer/pom.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka/kafka-consumer/src/main/java/com/microservices/demo/kafka/consumer/config/KafkaConsumerConfig.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka/kafka-consumer/src/main/java/com/microservices/demo/kafka/consumer/config/KafkaConsumerConfig.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka/kafka-model/pom.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka/kafka-model/pom.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka/kafka-model/src/main/java/com/microservices/demo/kafka/avro/model/TwitterAnalyticsAvroModel.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka/kafka-model/src/main/java/com/microservices/demo/kafka/avro/model/TwitterAnalyticsAvroModel.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka/kafka-model/src/main/java/com/microservices/demo/kafka/avro/model/TwitterAvroModel.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka/kafka-model/src/main/java/com/microservices/demo/kafka/avro/model/TwitterAvroModel.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka/kafka-model/src/main/resources/avro/twitter-analytics.avsc": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka/kafka-model/src/main/resources/avro/twitter-analytics.avsc",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka/kafka-model/src/main/resources/avro/twitter.avsc": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka/kafka-model/src/main/resources/avro/twitter.avsc",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka/kafka-producer/pom.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka/kafka-producer/pom.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka/kafka-producer/src/main/java/com/microservices/demo/kafka/producer/config/KafkaProducerConfig.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka/kafka-producer/src/main/java/com/microservices/demo/kafka/producer/config/KafkaProducerConfig.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka/kafka-producer/src/main/java/com/microservices/demo/kafka/producer/config/service/KafkaProducer.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka/kafka-producer/src/main/java/com/microservices/demo/kafka/producer/config/service/KafkaProducer.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka/kafka-producer/src/main/java/com/microservices/demo/kafka/producer/config/service/impl/TwitterKafkaProducer.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka/kafka-producer/src/main/java/com/microservices/demo/kafka/producer/config/service/impl/TwitterKafkaProducer.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::kafka/pom.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "kafka/pom.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::mdc-interceptor/pom.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "mdc-interceptor/pom.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::mdc-interceptor/src/main/java/com/microservices/demo/mdc/Constants.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "mdc-interceptor/src/main/java/com/microservices/demo/mdc/Constants.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::mdc-interceptor/src/main/java/com/microservices/demo/mdc/config/IdGeneratorConfig.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "mdc-interceptor/src/main/java/com/microservices/demo/mdc/config/IdGeneratorConfig.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::mdc-interceptor/src/main/java/com/microservices/demo/mdc/config/WebMvcConfig.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "mdc-interceptor/src/main/java/com/microservices/demo/mdc/config/WebMvcConfig.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::mdc-interceptor/src/main/java/com/microservices/demo/mdc/interceptor/MDCHandlerInterceptor.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "mdc-interceptor/src/main/java/com/microservices/demo/mdc/interceptor/MDCHandlerInterceptor.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::reactive-elastic-query-service/src/main/java/com/microservices/demo/reactive/elastic/query/service/ReactiveElasticQueryServiceApplication.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "reactive-elastic-query-service/src/main/java/com/microservices/demo/reactive/elastic/query/service/ReactiveElasticQueryServiceApplication.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::reactive-elastic-query-service/src/main/java/com/microservices/demo/reactive/elastic/query/service/api/ElasticDocumentController.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "reactive-elastic-query-service/src/main/java/com/microservices/demo/reactive/elastic/query/service/api/ElasticDocumentController.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::reactive-elastic-query-service/src/main/java/com/microservices/demo/reactive/elastic/query/service/business/ElasticQueryService.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "reactive-elastic-query-service/src/main/java/com/microservices/demo/reactive/elastic/query/service/business/ElasticQueryService.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::reactive-elastic-query-service/src/main/java/com/microservices/demo/reactive/elastic/query/service/business/ReactiveElasticQueryClient.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "reactive-elastic-query-service/src/main/java/com/microservices/demo/reactive/elastic/query/service/business/ReactiveElasticQueryClient.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::reactive-elastic-query-service/src/main/java/com/microservices/demo/reactive/elastic/query/service/business/impl/TwitterElasticQueryService.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "reactive-elastic-query-service/src/main/java/com/microservices/demo/reactive/elastic/query/service/business/impl/TwitterElasticQueryService.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::reactive-elastic-query-service/src/main/java/com/microservices/demo/reactive/elastic/query/service/business/impl/TwitterReactiveElasticQueryClient.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "reactive-elastic-query-service/src/main/java/com/microservices/demo/reactive/elastic/query/service/business/impl/TwitterReactiveElasticQueryClient.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::reactive-elastic-query-service/src/main/java/com/microservices/demo/reactive/elastic/query/service/repository/ElasticQueryRepository.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "reactive-elastic-query-service/src/main/java/com/microservices/demo/reactive/elastic/query/service/repository/ElasticQueryRepository.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::reactive-elastic-query-service/src/main/resources/application.yml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "reactive-elastic-query-service/src/main/resources/application.yml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::reactive-elastic-query-service/src/main/resources/logback.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "reactive-elastic-query-service/src/main/resources/logback.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::reactive-elastic-query-service/src/test/java/com/microservices/demo/reactive/elastic/query/service/ReactiveElasticQueryServiceApplicationTests.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "reactive-elastic-query-service/src/test/java/com/microservices/demo/reactive/elastic/query/service/ReactiveElasticQueryServiceApplicationTests.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::reactive-elastic-query-web-client/pom.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "reactive-elastic-query-web-client/pom.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::reactive-elastic-query-web-client/src/main/java/com/microservices/demo/reactive/elastic/query/web/client/ReactiveElasticQueryWebClientApplication.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "reactive-elastic-query-web-client/src/main/java/com/microservices/demo/reactive/elastic/query/web/client/ReactiveElasticQueryWebClientApplication.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::reactive-elastic-query-web-client/src/main/java/com/microservices/demo/reactive/elastic/query/web/client/api/QueryController.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "reactive-elastic-query-web-client/src/main/java/com/microservices/demo/reactive/elastic/query/web/client/api/QueryController.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::reactive-elastic-query-web-client/src/main/java/com/microservices/demo/reactive/elastic/query/web/client/config/WebClientConfig.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "reactive-elastic-query-web-client/src/main/java/com/microservices/demo/reactive/elastic/query/web/client/config/WebClientConfig.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::reactive-elastic-query-web-client/src/main/java/com/microservices/demo/reactive/elastic/query/web/client/config/WebSecurityConfig.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "reactive-elastic-query-web-client/src/main/java/com/microservices/demo/reactive/elastic/query/web/client/config/WebSecurityConfig.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::reactive-elastic-query-web-client/src/main/java/com/microservices/demo/reactive/elastic/query/web/client/service/ElasticQueryWebClient.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "reactive-elastic-query-web-client/src/main/java/com/microservices/demo/reactive/elastic/query/web/client/service/ElasticQueryWebClient.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::reactive-elastic-query-web-client/src/main/java/com/microservices/demo/reactive/elastic/query/web/client/service/impl/TwitterElasticQueryWebClient.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "reactive-elastic-query-web-client/src/main/java/com/microservices/demo/reactive/elastic/query/web/client/service/impl/TwitterElasticQueryWebClient.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::reactive-elastic-query-web-client/src/main/resources/application.yml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "reactive-elastic-query-web-client/src/main/resources/application.yml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::reactive-elastic-query-web-client/src/main/resources/logback.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "reactive-elastic-query-web-client/src/main/resources/logback.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::reactive-elastic-query-web-client/src/main/resources/templates/error.html": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "reactive-elastic-query-web-client/src/main/resources/templates/error.html",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::reactive-elastic-query-web-client/src/main/resources/templates/footer.html": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "reactive-elastic-query-web-client/src/main/resources/templates/footer.html",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::reactive-elastic-query-web-client/src/main/resources/templates/header.html": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "reactive-elastic-query-web-client/src/main/resources/templates/header.html",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::reactive-elastic-query-web-client/src/main/resources/templates/home.html": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "reactive-elastic-query-web-client/src/main/resources/templates/home.html",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::reactive-elastic-query-web-client/src/main/resources/templates/index.html": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "reactive-elastic-query-web-client/src/main/resources/templates/index.html",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::reactive-elastic-query-web-client/src/test/java/com/microservices/demo/reactive/elastic/query/web/client/ReactiveElasticQueryWebClientApplicationTests.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "reactive-elastic-query-web-client/src/test/java/com/microservices/demo/reactive/elastic/query/web/client/ReactiveElasticQueryWebClientApplicationTests.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::twitter-to-kafka-service/pom.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "twitter-to-kafka-service/pom.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/TwitterToKafkaServiceApplication.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/TwitterToKafkaServiceApplication.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/exception/TwitterToKafkaServiceException.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/exception/TwitterToKafkaServiceException.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/init/StreamInitializer.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/init/StreamInitializer.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/init/impl/KafkaStreamInitializer.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/init/impl/KafkaStreamInitializer.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/listener/TwitterKafkaStatusListener.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/listener/TwitterKafkaStatusListener.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/runner/StreamRunner.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/runner/StreamRunner.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/runner/impl/MockKafkaStreamRunner.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/runner/impl/MockKafkaStreamRunner.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/runner/impl/TwitterKafkaStreamRunner.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/runner/impl/TwitterKafkaStreamRunner.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/runner/impl/TwitterV2KafkaStreamRunner.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/runner/impl/TwitterV2KafkaStreamRunner.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/runner/impl/TwitterV2StreamHelper.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/runner/impl/TwitterV2StreamHelper.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/transformer/TwitterStatusToAvroTransformer.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/transformer/TwitterStatusToAvroTransformer.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::twitter-to-kafka-service/src/main/resources/logback-spring.xml": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "twitter-to-kafka-service/src/main/resources/logback-spring.xml",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::twitter-to-kafka-service/src/main/resources/twitter4j": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "twitter-to-kafka-service/src/main/resources/twitter4j",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::twitter-to-kafka-service/src/main/resources/twitter4j.properties": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "twitter-to-kafka-service/src/main/resources/twitter4j.properties",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "ARQUIVO_ORFAO::—::twitter-to-kafka-service/src/test/java/com/microservices/demo/twitter/to/kafka/service/TwitterToKafkaServiceApplicationTests.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "twitter-to-kafka-service/src/test/java/com/microservices/demo/twitter/to/kafka/service/TwitterToKafkaServiceApplicationTests.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "PRINCIPIO_VIOLADO::—::P-002": {
+      "codigo": "PRINCIPIO_VIOLADO",
+      "feature": "—",
+      "ref": "P-002",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    },
+    "PRINCIPIO_VIOLADO::—::P-003": {
+      "codigo": "PRINCIPIO_VIOLADO",
+      "feature": "—",
+      "ref": "P-003",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-29T22:16:05.837Z",
+      "ultimaVez": "2026-08-29T22:16:05.837Z",
+      "gitRev": "d17a04c"
+    }
+  }
+}
