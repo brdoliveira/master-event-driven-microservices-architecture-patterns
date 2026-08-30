@@ -1,11 +1,89 @@
 {
   "feature": "production-hardening",
-  "timestamp": "2026-08-29T23:26:39.134Z",
-  "gitRev": "fbed2b4",
-  "command": "node --test tests/production-hardening.test.mjs",
+  "timestamp": "2026-08-29T23:31:13.343Z",
+  "gitRev": "345e6e3",
+  "command": "node --test --test-reporter=tap tests/production-hardening.test.mjs",
   "reporter": "tap",
-  "exitCode": 1,
-  "testsParsed": 0,
-  "results": {},
-  "principles": {}
+  "exitCode": 0,
+  "testsParsed": 12,
+  "results": {
+    "AC-001": {
+      "status": "pass",
+      "testName": "@spec:AC-001 @principle:P-002 credenciais locais não entram no Git",
+      "method": "tap"
+    },
+    "AC-002": {
+      "status": "pass",
+      "testName": "@spec:AC-002 @principle:P-002 configurações usam variáveis de ambiente",
+      "method": "tap"
+    },
+    "AC-003": {
+      "status": "pass",
+      "testName": "@spec:AC-003 @principle:P-003 Maven Wrapper está completo e fixa a distribuição",
+      "method": "tap"
+    },
+    "AC-004": {
+      "status": "pass",
+      "testName": "@spec:AC-004 @principle:P-003 imagens Docker exigem o perfil Maven explícito",
+      "method": "tap"
+    },
+    "AC-005": {
+      "status": "pass",
+      "testName": "@spec:AC-005 Config Server usa o repositório local por padrão",
+      "method": "tap"
+    },
+    "AC-006": {
+      "status": "pass",
+      "testName": "@spec:AC-006 @principle:P-004 operações criptográficas exigem autenticação",
+      "method": "tap"
+    },
+    "AC-007": {
+      "status": "pass",
+      "testName": "@spec:AC-007 @principle:P-004 Gateway exige JWT nas rotas de negócio",
+      "method": "tap"
+    },
+    "AC-008": {
+      "status": "pass",
+      "testName": "@spec:AC-008 @principle:P-004 API reativa exige JWT nas consultas",
+      "method": "tap"
+    },
+    "AC-009": {
+      "status": "pass",
+      "testName": "@spec:AC-009 @principle:P-005 Docker Compose é validável sem segredos reais",
+      "method": "tap"
+    },
+    "AC-010": {
+      "status": "pass",
+      "testName": "@spec:AC-010 @principle:P-005 Compose não declara campos version obsoletos",
+      "method": "tap"
+    },
+    "AC-011": {
+      "status": "pass",
+      "testName": "@spec:AC-011 @principle:P-005 README contém o guia completo de execução",
+      "method": "tap"
+    },
+    "AC-012": {
+      "status": "pass",
+      "testName": "@spec:AC-012 @principle:P-005 CI verifica segurança, contrato e build",
+      "method": "tap"
+    }
+  },
+  "principles": {
+    "P-002": {
+      "status": "pass",
+      "testName": "@spec:AC-001 @principle:P-002 credenciais locais não entram no Git"
+    },
+    "P-003": {
+      "status": "pass",
+      "testName": "@spec:AC-003 @principle:P-003 Maven Wrapper está completo e fixa a distribuição"
+    },
+    "P-004": {
+      "status": "pass",
+      "testName": "@spec:AC-006 @principle:P-004 operações criptográficas exigem autenticação"
+    },
+    "P-005": {
+      "status": "pass",
+      "testName": "@spec:AC-009 @principle:P-005 Docker Compose é validável sem segredos reais"
+    }
+  }
 }

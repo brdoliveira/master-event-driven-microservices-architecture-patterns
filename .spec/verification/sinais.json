@@ -2363,46 +2363,46 @@
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "config-server-repository/config-client-kafka_streams.yml",
-      "ocorrencias": 2,
+      "ocorrencias": 3,
       "primeiraVez": "2026-08-29T23:05:45.565Z",
-      "ultimaVez": "2026-08-29T23:26:39.509Z",
-      "gitRev": "fbed2b4"
+      "ultimaVez": "2026-08-29T23:30:35.220Z",
+      "gitRev": "345e6e3"
     },
     "ARQUIVO_ORFAO::—::config-server-repository/config-client-kafka_to_elastic.yml": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "config-server-repository/config-client-kafka_to_elastic.yml",
-      "ocorrencias": 2,
+      "ocorrencias": 3,
       "primeiraVez": "2026-08-29T23:05:45.565Z",
-      "ultimaVez": "2026-08-29T23:26:39.509Z",
-      "gitRev": "fbed2b4"
+      "ultimaVez": "2026-08-29T23:30:35.221Z",
+      "gitRev": "345e6e3"
     },
     "ARQUIVO_ORFAO::—::config-server-repository/config-client-reactive_elastic_query_web.yml": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "config-server-repository/config-client-reactive_elastic_query_web.yml",
-      "ocorrencias": 2,
+      "ocorrencias": 3,
       "primeiraVez": "2026-08-29T23:05:45.565Z",
-      "ultimaVez": "2026-08-29T23:26:39.509Z",
-      "gitRev": "fbed2b4"
+      "ultimaVez": "2026-08-29T23:30:35.221Z",
+      "gitRev": "345e6e3"
     },
     "ARQUIVO_ORFAO::—::config-server-repository/config-client-twitter_to_kafka.yml": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "config-server-repository/config-client-twitter_to_kafka.yml",
-      "ocorrencias": 2,
+      "ocorrencias": 3,
       "primeiraVez": "2026-08-29T23:05:45.565Z",
-      "ultimaVez": "2026-08-29T23:26:39.509Z",
-      "gitRev": "fbed2b4"
+      "ultimaVez": "2026-08-29T23:30:35.221Z",
+      "gitRev": "345e6e3"
     },
     "ARQUIVO_ORFAO::—::config-server-repository/config-client.yml": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "config-server-repository/config-client.yml",
-      "ocorrencias": 2,
+      "ocorrencias": 3,
       "primeiraVez": "2026-08-29T23:05:45.565Z",
-      "ultimaVez": "2026-08-29T23:26:39.509Z",
-      "gitRev": "fbed2b4"
+      "ultimaVez": "2026-08-29T23:30:35.221Z",
+      "gitRev": "345e6e3"
     },
     "TASK_CONCLUIDA_SEM_PROVA::production-hardening::T-001": {
       "codigo": "TASK_CONCLUIDA_SEM_PROVA",

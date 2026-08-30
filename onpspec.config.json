@@ -1,5 +1,5 @@
 {
-  "testCommand": "node --test tests/production-hardening.test.mjs",
+  "testCommand": "node --test --test-reporter=tap tests/production-hardening.test.mjs",
   "reporter": "tap",
   "testGlobs": [
     "tests/**",
@@ -25,6 +25,11 @@
     "reactive-elastic-query-service/src/main/resources/bootstrap.yml",
     "reactive-elastic-query-web-client/src/main/resources/bootstrap.yml",
     "elastic-query-web-client-2/src/main/resources/bootstrap.yml",
-    "config-server-repository/config-client*.yml"
+    "config-server-repository/config-client-analytics.yml",
+    "config-server-repository/config-client-elastic_query.yml",
+    "config-server-repository/config-client-elastic_query_web.yml",
+    "config-server-repository/config-client-elastic_query_web_2.yml",
+    "config-server-repository/config-client-gateway.yml",
+    "config-server-repository/config-client-reactive_elastic_query.yml"
   ]
 }

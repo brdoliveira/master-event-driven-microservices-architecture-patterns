@@ -1,7 +1,7 @@
 # Spec: Production hardening
 
 > feature: production-hardening
-> status: pronta
+> status: auditada
 
 ## Contexto
 
